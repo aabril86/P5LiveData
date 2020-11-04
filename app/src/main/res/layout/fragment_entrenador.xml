@@ -6,11 +6,11 @@
     tools:context=".EntrenadorFragment">
 
     <ImageView
-        android:id="@+id/image"
+        android:id="@+id/ejercicio"
         android:layout_width="match_parent"
         android:layout_height="match_parent" />
     <TextView
-        android:id="@+id/time"
+        android:id="@+id/repeticion"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
